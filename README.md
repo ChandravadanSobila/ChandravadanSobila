@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChandravadanSobila
 - 👀 I’m interested in Python,C++,Data Structures and algorithms
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Object oriented programming
 - 💞️ I’m looking to collaborate on a project on python
 - 📫 How to reach me through email: sobilachandravadan@gmail.com
 
